@@ -1,0 +1,18 @@
+{
+  "name": "ren-server",
+  "version": "1.0.0",
+  "description": "Backend for ren app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.3.8",
+    "ramda": "^0.28.0",
+    "ramda-fantasy": "^0.8.0",
+    "underscore": "^1.13.3"
+  }
+}
